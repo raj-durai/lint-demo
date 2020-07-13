@@ -17,8 +17,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "yarn lint && yarn test",
-      "pre-commit": "yarn test-changed && pretty-quick --staged"
+      "pre-push": "yarn lint && yarn test --watchAll",
+      "pre-commit": "pretty-quick --staged"
     }
   },
   "scripts": {
