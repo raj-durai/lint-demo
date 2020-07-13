@@ -1,8 +1,8 @@
-To Read setp by step procedure
+To Read setp by step procedure open [Blog](https://medium.com/p/c92ebf14a896)
 
 ## Developing
 
-To set up your local environment, go to the `lore-demo` directory and then run the following:<br>
+To set up your local environment, go to the `lint-demo` directory and then run the following:<br>
 `yarn install`<br>
 `yarn start` <br>
 
@@ -15,13 +15,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### For ESLint's and Prettier lint fix,
 
     yarn lint-fix
-
-### Running tests
-
-    yarn test
-
-### Running tests with Coverage
-
-    yarn test:coverage
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
